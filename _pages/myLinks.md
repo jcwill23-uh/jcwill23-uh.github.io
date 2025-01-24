@@ -16,3 +16,7 @@ Please check out my links below and feel free to connect with me. Thank you!
 [GitHub](https://github.com/jcwill23-uh)
 
 Email: jcwill23@cougarnet.uh.edu
+
+[UH Department of Computer Science](https://www.uh.edu/nsm/computer-science/)
+
+[CougarCS](https://cougarcs.com/)
