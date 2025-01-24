@@ -20,3 +20,5 @@ Email: jcwill23@cougarnet.uh.edu
 [UH Department of Computer Science](https://www.uh.edu/nsm/computer-science/)
 
 [CougarCS](https://cougarcs.com/)
+
+![UH CAMPUS](/images/university_of_houston_cover.jpg)
