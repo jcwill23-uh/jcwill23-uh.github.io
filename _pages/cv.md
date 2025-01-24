@@ -15,7 +15,7 @@ Education
 
 Work experience
 ======
-* October 2020 - Present  -----  Residential Pressure Washer
+* October 2021 - Present  -----  Residential Pressure Washer
   * Self Employed
   * Duties includes: Source new clients and provide exceptional service
 
