@@ -11,4 +11,4 @@ redirect_from:
 
 Download my resume [here](https://drive.google.com/file/d/1FuiuZ403R6ENv9DCHxEviwCnKFb7SqY9/view?usp=drive_link).
 
-![You can also view my resume below:](RESUME-1.png)
+![You can also view my resume below:](/images/RESUME-1.png)
