@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download my resume [here](/files/RESUME.pdf).
+Download my resume [here](/files/CURRENT_RESUME.pdf).
 
 You can also view my resume in the browser below:
 
