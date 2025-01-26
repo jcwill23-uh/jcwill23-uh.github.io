@@ -9,8 +9,5 @@ main:
   - title: "Resume"
     url: /resume/
 
-  - title: "CV"
-    url: /cv/
-
   - title: "My Links"
     url: /links/
