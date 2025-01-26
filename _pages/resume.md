@@ -13,4 +13,4 @@ Download my resume [here](/files/CURRENT_RESUME.pdf).
 
 You can also view my resume in the browser below:
 
-![You can also view my resume below:](images/CURRENT_RESUME-1.png)
+![You can also view my resume below:](/images/CURRENT_RESUME-1.png)
