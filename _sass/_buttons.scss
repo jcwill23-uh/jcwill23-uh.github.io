@@ -11,19 +11,19 @@
   display: inline-block;
   margin-bottom: 0.25em;
   padding: 0.5em 1em;
-  color: #242b30 !important;
+  color: #fff !important;
   font-family: $sans-serif;
   font-size: $type-size-6;
   font-weight: bold;
   text-align: center;
   text-decoration: none;
-  background-color: #242b30;
+  background-color: $primary-color;
   border: 0 !important;
   border-radius: $border-radius;
   cursor: pointer;
 
   &:hover {
-    background-color: #242b30;
+    background-color: mix(white, #000, 20%);
   }
 
   .icon {
@@ -48,13 +48,13 @@
   /* for dark backgrounds */
 
   &--inverse {
-    color: #242b30 !important;
-    border: 1px solid #242b30 !important; /* override*/
-    background-color: #242b30;
+    color: $gray !important;
+    border: 1px solid $light-gray !important; /* override*/
+    background-color: #fff;
 
     &:hover {
-      color: #242b30 !important;
-      border-color: #39454d;
+      color: #fff !important;
+      border-color: $gray;
     }
   }
 
@@ -68,10 +68,10 @@
   /* information */
 
   &--info {
-    background-color: #242b30;
+    background-color: $info-color;
 
     &:hover {
-      background-color: #39454d;
+      background-color: mix(#000, $info-color, 20%);
     }
   }
 
