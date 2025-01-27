@@ -15,19 +15,6 @@
         url('../fonts/academicons.woff') format('woff'),
         url('../fonts/academicons.svg') format('svg');
 }
-
-:root {
-  --background-color: white;
-  --text-color: black;
-}
-
-@media (prefers-color-scheme: dark) {
- :root {
-   --background-color: black;
-   --text-color: white;
- }
-}
-
 .ai {
   font-family: 'Academicons';
   font-weight: 400;
