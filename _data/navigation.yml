@@ -11,3 +11,6 @@ main:
 
   - title: "My Links"
     url: /links/
+
+  - title: "Contact Me"
+    url: /contactMe/
