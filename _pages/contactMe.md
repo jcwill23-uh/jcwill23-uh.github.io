@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Contact Me"
-permalink: /links/
+permalink: /contactMe/
 author_profile: true
 redirect_from:
   - /resume
