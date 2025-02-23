@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "headshot.jpg"
+  avatar           : "headshot.JPG"
   name             : "John Williams"
   pronouns         : # example: "she/her"  
   bio              : "Undergraduate at the University of Houston pursuing a Bachelor of Science in Computer Science."
