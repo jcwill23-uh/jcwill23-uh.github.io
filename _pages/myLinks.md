@@ -11,7 +11,7 @@ redirect_from:
 
 Please check out my links below and feel free to connect with me. Thank you!
 
-[LinkedIn](https://www.linkedin.com/in/jack-williams-3587ab12a/)
+[LinkedIn](https://www.linkedin.com/in/john-williams-3587ab12a/)
 
 [GitHub](https://github.com/jcwill23-uh)
 
