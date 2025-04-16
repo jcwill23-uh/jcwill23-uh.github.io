@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-Download my resume [here](/images/updated_resume.pdf).
+Download my resume [here](/images/John_Williams_Resume.pdf).
 
 You can also view my resume in the browser below:
 
-![You can also view my resume below:](/images/updated_resume-1.png)
+![You can also view my resume below:](/John_Williams_Resume-1.png)
