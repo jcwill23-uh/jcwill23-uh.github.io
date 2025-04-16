@@ -1,7 +1,8 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Swan River Group Project"
+excerpt: "In this project, I was a part of building a web app that has RBAC. We used Office365 for authentication. Basic users are able to fill out form information and then it is submitted to admins for review. A hierarchy system is in place for admins that allows for delegation of forms to lower level admins to review.<br/>
+<a href='https://github.com/jcwill23-uh/v0.4---Swan-River-Group-Project'>View the GitHub Repository</a><br>
+<a href=''>View the Youtube Demo</a>"
+
 collection: portfolio
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
