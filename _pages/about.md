@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-My name is John Williams, I go by Jack. I am currently enrolled at the Univeristy of Houston. I am pursuing a Bachelor of Science in Computer Science and expect to graduate in Spring 2026.
+My name is John Williams, I go by Jack. I am currently enrolled at the Univeristy of Houston. I am pursuing a Bachelor of Science in Computer Science and expect to graduate in May of 2026.
 
 About Me
 ======
-I am currently seeking an internship for Summer 2025. I am eager to soak up as much knowledge as possible and help in any way that is useful. I'm open to exploring various job opportunities in order to gain experience as I'm still discovering the right career path for myself. 
+I am an ambitious and growth-oriented professional actively seeking a full-time role where I can make an impact and continue developing my skills. I thrive in environments that challenge me to think critically and learn quickly. I am highly adaptable, eager to take initiative, and committed to continuous learning. My goal is to not only contribute to a team’s success but also to constantly evolve by gaining new knowledge and real-world experience.
 
 Additional Information
 ======
